@@ -1,0 +1,14 @@
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/bin/Debug/net8.0/WebSocketServerApp
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/bin/Debug/net8.0/WebSocketServerApp.deps.json
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/bin/Debug/net8.0/WebSocketServerApp.runtimeconfig.json
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/bin/Debug/net8.0/WebSocketServerApp.dll
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/bin/Debug/net8.0/WebSocketServerApp.pdb
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/WebSocketServerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/WebSocketServerApp.AssemblyInfoInputs.cache
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/WebSocketServerApp.AssemblyInfo.cs
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/WebSocketServerApp.csproj.CoreCompileInputs.cache
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/WebSocketServerApp.dll
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/refint/WebSocketServerApp.dll
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/WebSocketServerApp.pdb
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/WebSocketServerApp.genruntimeconfig.cache
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/ref/WebSocketServerApp.dll
