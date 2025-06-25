@@ -12,3 +12,4 @@
 /Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/WebSocketServerApp.pdb
 /Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/WebSocketServerApp.genruntimeconfig.cache
 /Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/ref/WebSocketServerApp.dll
+/Users/denisvejrazka/Projects/WebSocketServerApp/WebSocketServerApp/obj/Debug/net8.0/WebSocketServerApp.sourcelink.json

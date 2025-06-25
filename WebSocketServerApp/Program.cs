@@ -13,7 +13,7 @@ class Program
     static async Task Main()
     {
         HttpListener server = new();
-        server.Prefixes.Add("http://+:5004/ws/");
+        server.Prefixes.Add("http://+:5006/ws/");
         server.Start();
         Console.WriteLine("WebSocket server běží");
 
